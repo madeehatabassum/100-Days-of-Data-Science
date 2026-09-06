@@ -16,8 +16,8 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 
 | Day | Date | Category | Topic |
 | :---: | :---: | :---: | :--- |
-| 1 | *Today* | Python | [Two Sum Problem](Python/day01_two_sum.py) |
-| 2 | | | |
+| 1 | 09-05-2026 | Python | [Two Sum Problem](Python/day01_two_sum.py) |
+| 2 | *Today* | SQL | [Second Highest Salary](SQL/day02_second_highest_salary.sql) |
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |
