@@ -18,9 +18,12 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | :---: | :---: | :---: | :--- |
 | 1 | 09-05-2026 | Python | [Two Sum Problem](Python/day01_two_sum.py) |
 | 2 | 09-06-2026 | SQL | [Second Highest Salary](SQL/day02_second_highest_salary.sql) |
-| 3 | *Today* | Machine Learning | [Classification Metrics from Scratch](Machine_Learning/day03_metrics_from_scratch.py) |
-| 4 | | | |
-| 5 | | | |
+| 3 | 09-08-2026 | Machine Learning | [Classification Metrics from Scratch](Machine_Learning/day03_metrics_from_scratch.py) |
+| 4 | 09-09-2026 | Python | [Palindrome Checker](Python/day04_palindrome.py) |
+| 5 | 09-10-2026 | SQL | [Nth Highest Salary](SQL/day05_nth_highest_salary.sql) |
+| 6 | 09-11-2026 | Machine Learning | [Gradient Descent](Machine_Learning/day06_gradient_descent.py) |
+| 7 | | | |
+| 8 | | | |
 
 ---
 *Consistency is the key to mastering Data Science.*
