@@ -22,7 +22,7 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 4 | 09-09-2026 | Python | [Palindrome Checker](Python/day04_palindrome.py) |
 | 5 | 09-10-2026 | SQL | [Nth Highest Salary](SQL/day05_nth_highest_salary.sql) |
 | 6 | 09-11-2026 | Machine Learning | [Gradient Descent](Machine_Learning/day06_gradient_descent.py) |
-| 7 | | | |
+| 7 | *Today* | Python | [Pandas Grouping & Aggregation](Python/day07_pandas_grouping.py) |
 | 8 | | | |
 
 ---
