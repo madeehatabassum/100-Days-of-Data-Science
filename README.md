@@ -22,8 +22,11 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 4 | 09-09-2026 | Python | [Palindrome Checker](Python/day04_palindrome.py) |
 | 5 | 09-10-2026 | SQL | [Nth Highest Salary](SQL/day05_nth_highest_salary.sql) |
 | 6 | 09-11-2026 | Machine Learning | [Gradient Descent](Machine_Learning/day06_gradient_descent.py) |
-| 7 | *Today* | Python | [Pandas Grouping & Aggregation](Python/day07_pandas_grouping.py) |
-| 8 | | | |
+| 7 | 09-13-2026 | Python | [Pandas Grouping & Aggregation](Python/day07_pandas_grouping.py) |
+| 8 | 09-14-2026 | SQL | [Window Functions](SQL/day08_window_functions.sql) |
+| 9 | 09-15-2026 | Machine Learning | [Linear Regression MSE](Machine_Learning/day09_linear_regression.py) |
+| 10 | *Today* | Python | [Fibonacci Memoization](Python/day10_fibonacci.py) |
+| 11 | | | |
 
 ---
 *Consistency is the key to mastering Data Science.*
