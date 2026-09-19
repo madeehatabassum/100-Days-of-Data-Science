@@ -25,8 +25,11 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 7 | 09-13-2026 | Python | [Pandas Grouping & Aggregation](Python/day07_pandas_grouping.py) |
 | 8 | 09-14-2026 | SQL | [Window Functions](SQL/day08_window_functions.sql) |
 | 9 | 09-15-2026 | Machine Learning | [Linear Regression MSE](Machine_Learning/day09_linear_regression.py) |
-| 10 | *Today* | Python | [Fibonacci Memoization](Python/day10_fibonacci.py) |
-| 11 | | | |
+| 10 | 09-16-2026 | Python | [Fibonacci Memoization](Python/day10_fibonacci.py) |
+| 11 | 09-17-2026 | Python | [Valid Parentheses](Python/day11_valid_parentheses.py) |
+| 12 | 09-18-2026 | SQL | [Duplicate Emails](SQL/day12_duplicate_emails.sql) |
+| 13 | *Today* | Machine Learning | [Euclidean Distance](Machine_Learning/day13_euclidean_distance.py) |
+| 14 | | | |
 
 ---
 *Consistency is the key to mastering Data Science.*
