@@ -30,8 +30,11 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 12 | 09-18-2026 | SQL | [Duplicate Emails](SQL/day12_duplicate_emails.sql) |
 | 13 | 09-19-2026 | Machine Learning | [Euclidean Distance](Machine_Learning/day13_euclidean_distance.py) |
 | 14 | 09-20-2026 | Python | [Binary Search](Python/day14_binary_search.py) |
-| 15 | *Today* | SQL | [Consecutive Numbers](SQL/day15_consecutive_numbers.sql) |
-| 16 | | | |
+| 15 | 09-21-2026 | SQL | [Consecutive Numbers](SQL/day15_consecutive_numbers.sql) |
+| 16 | 09-22-2026 | Python | [Pandas: Missing Values](Python/day16_pandas_handling_nans.py) |
+| 17 | 09-23-2026 | SQL | [Customers Who Never Order](SQL/day17_customers_no_orders.sql) |
+| 18 | *Today* | Machine Learning | [Sigmoid Function](Machine_Learning/day18_sigmoid_function.py) |
+| 19 | | | |
 
 ---
 *Consistency is the key to mastering Data Science.*
