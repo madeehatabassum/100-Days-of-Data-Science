@@ -33,8 +33,11 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 15 | 09-21-2026 | SQL | [Consecutive Numbers](SQL/day15_consecutive_numbers.sql) |
 | 16 | 09-22-2026 | Python | [Pandas: Missing Values](Python/day16_pandas_handling_nans.py) |
 | 17 | 09-23-2026 | SQL | [Customers Who Never Order](SQL/day17_customers_no_orders.sql) |
-| 18 | *Today* | Machine Learning | [Sigmoid Function](Machine_Learning/day18_sigmoid_function.py) |
-| 19 | | | |
+| 18 | 09-24-2026 | Machine Learning | [Sigmoid Function](Machine_Learning/day18_sigmoid_function.py) |
+| 19 | 09-25-2026 | Python | [Reverse String In-Place](Python/day19_reverse_string.py) |
+| 20 | 09-26-2026 | SQL | [Rising Temperature](SQL/day20_rising_temperature.sql) |
+| 21 | *Today* | Machine Learning | [K-Means Centroid Assignment](Machine_Learning/day21_kmeans_clustering.py) |
+| 22 | | | |
 
 ---
 *Consistency is the key to mastering Data Science.*
