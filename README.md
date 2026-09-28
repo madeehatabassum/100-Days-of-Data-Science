@@ -37,7 +37,7 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 19 | 09-25-2026 | Python | [Reverse String In-Place](Python/day19_reverse_string.py) |
 | 20 | 09-26-2026 | SQL | [Rising Temperature](SQL/day20_rising_temperature.sql) |
 | 21 | *Today* | Machine Learning | [K-Means Centroid Assignment](Machine_Learning/day21_kmeans_clustering.py) |
-| 22 | | | |
 
+| 22 | 09-28-2026 | Python | [Factorial using Recursion](Python/day22_factorial.py) |
 ---
 *Consistency is the key to mastering Data Science.*
