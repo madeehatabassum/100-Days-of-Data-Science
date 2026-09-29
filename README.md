@@ -39,5 +39,6 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 21 | *Today* | Machine Learning | [K-Means Centroid Assignment](Machine_Learning/day21_kmeans_clustering.py) |
 
 | 22 | 09-28-2026 | Python | [Factorial using Recursion](Python/day22_factorial.py) |
+| 23 | 09-29-2026 | SQL | [Department Highest Salary](SQL/day23_department_highest_salary.sql) |
 ---
 *Consistency is the key to mastering Data Science.*
