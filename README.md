@@ -40,5 +40,6 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 
 | 22 | 09-28-2026 | Python | [Factorial using Recursion](Python/day22_factorial.py) |
 | 23 | 09-29-2026 | SQL | [Department Highest Salary](SQL/day23_department_highest_salary.sql) |
+| 24 | 09-30-2026 | Machine Learning | [ReLU Activation Function](Machine_Learning/day24_relu_activation.py) |
 ---
 *Consistency is the key to mastering Data Science.*
