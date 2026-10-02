@@ -42,5 +42,6 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 23 | 09-29-2026 | SQL | [Department Highest Salary](SQL/day23_department_highest_salary.sql) |
 | 24 | 09-30-2026 | Machine Learning | [ReLU Activation Function](Machine_Learning/day24_relu_activation.py) |
 | 25 | 10-01-2026 | Python | [Merge Sorted Arrays](Python/day25_merge_sorted_arrays.py) |
+| 26 | 10-02-2026 | SQL | [Delete Duplicate Emails](SQL/day26_delete_duplicate_emails.sql) |
 ---
 *Consistency is the key to mastering Data Science.*
