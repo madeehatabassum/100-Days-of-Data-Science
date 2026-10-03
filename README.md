@@ -43,5 +43,6 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 24 | 09-30-2026 | Machine Learning | [ReLU Activation Function](Machine_Learning/day24_relu_activation.py) |
 | 25 | 10-01-2026 | Python | [Merge Sorted Arrays](Python/day25_merge_sorted_arrays.py) |
 | 26 | 10-02-2026 | SQL | [Delete Duplicate Emails](SQL/day26_delete_duplicate_emails.sql) |
+| 27 | 10-03-2026 | Machine Learning | [Gini Impurity](Machine_Learning/day27_gini_impurity.py) |
 ---
 *Consistency is the key to mastering Data Science.*
