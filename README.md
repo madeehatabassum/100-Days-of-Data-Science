@@ -47,5 +47,6 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 28 | 10-04-2026 | Python | [Contains Duplicate](Python/day28_contains_duplicate.py) |
 | 29 | 10-05-2026 | SQL | [Exchange Seats](SQL/day29_exchange_seats.sql) |
 | 30 | 10-06-2026 | Machine Learning | [Mean Absolute Error](Machine_Learning/day30_mae_cost.py) |
+| 31 | 10-07-2026 | Python | [Valid Anagram](Python/day31_valid_anagram.py) |
 ---
 *Consistency is the key to mastering Data Science.*
