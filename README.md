@@ -48,5 +48,6 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 29 | 10-05-2026 | SQL | [Exchange Seats](SQL/day29_exchange_seats.sql) |
 | 30 | 10-06-2026 | Machine Learning | [Mean Absolute Error](Machine_Learning/day30_mae_cost.py) |
 | 31 | 10-07-2026 | Python | [Valid Anagram](Python/day31_valid_anagram.py) |
+| 32 | 10-08-2026 | SQL | [Employees Earning More Than Managers](SQL/day32_employees_more_than_managers.sql) |
 ---
 *Consistency is the key to mastering Data Science.*
