@@ -51,5 +51,6 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 32 | 10-08-2026 | SQL | [Employees Earning More Than Managers](SQL/day32_employees_more_than_managers.sql) |
 | 33 | 10-09-2026 | Machine Learning | [Cosine Similarity from Scratch](Machine_Learning/day33_cosine_similarity.py) |
 | 34 | 10-10-2026 | Python | [Kadane's Algorithm (Max Subarray)](Python/day34_kadanes_algorithm.py) |
+| 35 | 10-11-2026 | SQL | [Rank Scores using DENSE_RANK](SQL/day35_rank_scores.sql) |
 ---
 *Consistency is the key to mastering Data Science.*
