@@ -52,5 +52,6 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 33 | 10-09-2026 | Machine Learning | [Cosine Similarity from Scratch](Machine_Learning/day33_cosine_similarity.py) |
 | 34 | 10-10-2026 | Python | [Kadane's Algorithm (Max Subarray)](Python/day34_kadanes_algorithm.py) |
 | 35 | 10-11-2026 | SQL | [Rank Scores using DENSE_RANK](SQL/day35_rank_scores.sql) |
+| 36 | 10-12-2026 | Machine Learning | [Confusion Matrix from Scratch](Machine_Learning/day36_confusion_matrix.py) |
 ---
 *Consistency is the key to mastering Data Science.*
