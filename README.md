@@ -53,5 +53,6 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 34 | 10-10-2026 | Python | [Kadane's Algorithm (Max Subarray)](Python/day34_kadanes_algorithm.py) |
 | 35 | 10-11-2026 | SQL | [Rank Scores using DENSE_RANK](SQL/day35_rank_scores.sql) |
 | 36 | 10-12-2026 | Machine Learning | [Confusion Matrix from Scratch](Machine_Learning/day36_confusion_matrix.py) |
+| 37 | 10-13-2026 | Python | [Longest Common Prefix](Python/day37_longest_common_prefix.py) |
 ---
 *Consistency is the key to mastering Data Science.*
