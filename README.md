@@ -56,5 +56,6 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 37 | 10-13-2026 | Python | [Longest Common Prefix](Python/day37_longest_common_prefix.py) |
 | 38 | 10-14-2026 | SQL | [Game Play Analysis: First Login](SQL/day38_game_play_analysis.sql) |
 | 39 | 10-15-2026 | Machine Learning | [KNN Classifier from Scratch](Machine_Learning/day39_knn_classifier.py) |
+| 40 | 10-16-2026 | Python | [Move Zeroes in Place](Python/day40_move_zeroes.py) |
 ---
 *Consistency is the key to mastering Data Science.*
