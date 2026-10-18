@@ -58,5 +58,6 @@ Welcome to my daily technical interview preparation repository! As a final-year 
 | 39 | 10-15-2026 | Machine Learning | [KNN Classifier from Scratch](Machine_Learning/day39_knn_classifier.py) |
 | 40 | 10-16-2026 | Python | [Move Zeroes in Place](Python/day40_move_zeroes.py) |
 | 41 | 10-17-2026 | SQL | [Managers with at Least 5 Direct Reports](SQL/day41_managers_with_5_reports.sql) |
+| 42 | 10-18-2026 | Machine Learning | [Binary Cross Entropy (Log Loss) from Scratch](Machine_Learning/day42_binary_cross_entropy.py) |
 ---
 *Consistency is the key to mastering Data Science.*
